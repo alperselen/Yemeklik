@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yemeklik</string>
+
+    <string name="title_section1">Aperatİf</string>
+    <string name="title_section2">Kahvaltılık</string>
+    <string name="title_section3">Baklİyat yemeklerİ</string>
+    <string name="title_section4">Sulu yemeklerİ</string>
+    <string name="title_section5">Etlİ Yemekler</string>
+    <string name="title_section6">Çorbalar</string>
+    <string name="title_section7">Kebaplar</string>
+    <string name="title_section8">Etsİz yemekler</string>
+    <string name="title_section9">Salatalar</string>
+    <string name="title_section10">Tatlılar</string>
+    <string name="title_section11">Mutfaklar</string>
+    <string name="title_section12">Sebzeler</string>
+    <string name="title_section13">İçecekler</string>
+    <string name="title_section14">Zeytİnyağlılar</string>
+    <string name="title_section15">Köfteler</string>
+    <string name="title_section16">Tavuk yemeklerİ</string>
+    <string name="title_section17">Balık yemeklerİ</string>
+    <string name="title_section18">Hamur İşlerİ</string>
+    <string name="title_section19">Dİyet yemeklerİ</string>
+    <string name="title_section20">Dİyabetİk yemekler</string>
+    <string name="title_section21">Çocuklar İçİn</string>
+    <string name="title_section22">Bebekler İçİn</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
